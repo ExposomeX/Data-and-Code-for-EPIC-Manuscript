@@ -1,0 +1,8 @@
+# Packaging and test summary (2026-10-23)
+
+- Created a new submission directory; original `D:\emi_association\webpage\code` files were not overwritten.
+- Collected 51 source-code files across historical emissions, hospitalization associations, biological evidence/priority/CEI, and future emissions. Multi-GB NetCDF inputs, large original result tables, cache and virtual environments were excluded.
+- Included small examples: 120 historical emission rows, 245 synthetic hospitalization records, 168 stratified priority-evidence rows, and 36 future-prediction rows. The synthetic hospitalization records use `SYN` county IDs; no confidential admission microdata were copied.
+- `python demo/run_demo.py`: **PASS**; measured Python execution 0.092 s. Five expected output files were generated in `demo/output/`.
+- Executed the packaged `code_3_select_pols.py` using the included full aggregate evidence and toxicity inputs. It generated four CSV outputs. The selected result has **83 disease–pollutant–source rows and 33 unique exposure targets**. Its 83 × 35 final-selection table is exactly equal, value for value and order, to the original research output. Two packaging-only compatibility edits were made to this copy: remove unused `seaborn` import and replace a pandas `groupby.apply` form incompatible with pandas 3. The ranking formula was not changed.
+- Not executed here: the R hospitalization models (R was not installed), full XGBoost/geospatial reconstruction, and full future prediction (multi-GB and/or restricted inputs and trained models were not in the compact package). These are documented reproducibility limits, not successful validation claims.

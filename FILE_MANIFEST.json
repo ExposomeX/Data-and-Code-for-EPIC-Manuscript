@@ -1,0 +1,372 @@
+[
+  {
+    "path": "demo/data/association_example.csv",
+    "bytes": 31646,
+    "sha256": "607a7ffb2914f4f5bd058277fdae0e9d1857646b60c3a4e80dcc395ec1af72a2"
+  },
+  {
+    "path": "demo/data/emission_example.csv",
+    "bytes": 1279180,
+    "sha256": "b80a54dd17e6c91a3cacb2a45457093b1e45d5b1ba2e5e408058b1ee7ea552ec"
+  },
+  {
+    "path": "demo/data/future_example.csv",
+    "bytes": 243430,
+    "sha256": "5055aa0526649146232484cc9fbab5123b255ccca24d98c19c750ecee8ad1d93"
+  },
+  {
+    "path": "demo/data/priority_example.csv",
+    "bytes": 51255,
+    "sha256": "d966a927c4d52568484d4a6b8b06ed485d1b4dea726c5db32030a314920d6784"
+  },
+  {
+    "path": "demo/data/toxicity_scores.csv",
+    "bytes": 3524,
+    "sha256": "48a2196db27159e86028d6459361c93ebe4b8af270eeeaaf09f9b9ba1d6f2986"
+  },
+  {
+    "path": "demo/output/association_demo_qc.csv",
+    "bytes": 226,
+    "sha256": "e794d5612e43185a8cfcb3e560c5f220acaef6e84e41559d1b3a794c593682aa"
+  },
+  {
+    "path": "demo/output/demo_run.json",
+    "bytes": 247,
+    "sha256": "227ea6764a427bddb90f89fbef2d3b9aee16743cf5d0e64e6e9a301554f022a8"
+  },
+  {
+    "path": "demo/output/emission_example_summary.csv",
+    "bytes": 66,
+    "sha256": "eb96c099449deb7c357dfec995ebda93bf6c09188bf10b8482c6806c5b9091e5"
+  },
+  {
+    "path": "demo/output/future_example_summary.csv",
+    "bytes": 60,
+    "sha256": "355f229fd0824a082aa49de255e6907d03acb944a846eaf1670b30860f26ac13"
+  },
+  {
+    "path": "demo/output/priority_demo_epi_screen.csv",
+    "bytes": 745,
+    "sha256": "218a97a680d0c1ad52c56ab85c1c9356c43678aeeefb02445cf5f0ac19f7fdde"
+  },
+  {
+    "path": "demo/prepare_examples.py",
+    "bytes": 1374,
+    "sha256": "29d7e02b170ccd1110f6291e7b4bb8b617cbbe1605d2afe834a2ee6043c25365"
+  },
+  {
+    "path": "demo/run_demo.py",
+    "bytes": 3851,
+    "sha256": "e9e6847e6b2ae39cae58ddd70698daadd78a20b70649bcfbe1984614f7652662"
+  },
+  {
+    "path": "README.md",
+    "bytes": 8461,
+    "sha256": "43d5f946c09b032bc661ba3dc837a931e1e01455e4cb3060dd0af44f4665f1dd"
+  },
+  {
+    "path": "requirements.txt",
+    "bytes": 662,
+    "sha256": "1891a513b9c1975782e009d3683cabad851bb9669676f2ccbaf856b1dd1fa6dc"
+  },
+  {
+    "path": "RUN_SUMMARY.md",
+    "bytes": 1671,
+    "sha256": "9ae4663b79e363d16cd3620c1dba88c941dcdde2db3a5c3ab967f24e081d02b5"
+  },
+  {
+    "path": "source/Supplementary Code 1_Cal_Emission/code_1.1_desc_product.py",
+    "bytes": 5530,
+    "sha256": "16205ed3a13b61e3d9c33ac7186ec3c03dd586a6d2422f7a33a285ce8ebe8b59"
+  },
+  {
+    "path": "source/Supplementary Code 1_Cal_Emission/code_1.2_imp_product.py",
+    "bytes": 8195,
+    "sha256": "fa9316b329545c616b3fb1873d395b9b11c9046c0d9ef67f69e40a502c5f97ec"
+  },
+  {
+    "path": "source/Supplementary Code 1_Cal_Emission/code_1.2_imp_product_global.py",
+    "bytes": 7922,
+    "sha256": "98f66304a1f4d2e52bc1cd038e8ac9c2118b47b5f8d2d27367bab81be7380bdc"
+  },
+  {
+    "path": "source/Supplementary Code 1_Cal_Emission/code_1_process_grid_pollutants.py",
+    "bytes": 6464,
+    "sha256": "b636271b67faee0b5d7efa470aeecf4ebd2af43bb5ea03cc43597e0e3218d140"
+  },
+  {
+    "path": "source/Supplementary Code 1_Cal_Emission/code_2.1_cal_emission.py",
+    "bytes": 26599,
+    "sha256": "7f216a9bde1645af5190bd2c4a1a306e25340fbb82fce6ae0f1cc038b4d730f0"
+  },
+  {
+    "path": "source/Supplementary Code 1_Cal_Emission/code_2.2_cal_global_emission.py",
+    "bytes": 11562,
+    "sha256": "75fee97b2739f702e0e7480bca1373db1d4b85b4de5e917019ff7fa7e39dd1e5"
+  },
+  {
+    "path": "source/Supplementary Code 1_Cal_Emission/code_3.1_pred_cross_validation.py",
+    "bytes": 23647,
+    "sha256": "bb83a252bd8034570708c15c6f5c71386890e7e8c5938dd7ca5e0b0eaab83555"
+  },
+  {
+    "path": "source/Supplementary Code 1_Cal_Emission/code_3.2_pred_grid_emission.py",
+    "bytes": 13233,
+    "sha256": "391a64de63592d18b75f27ae4b7d905524969bba3b9ea313429cb454495eaf6e"
+  },
+  {
+    "path": "source/Supplementary Code 1_Cal_Emission/code_4.1_predict_PAH.py",
+    "bytes": 27626,
+    "sha256": "c56c51883a891b65ed7dd6513aaf29815e37970e02bbd90007bfad89e4397a9e"
+  },
+  {
+    "path": "source/Supplementary Code 1_Cal_Emission/code_4.2_PAH_forward_validation.py",
+    "bytes": 26102,
+    "sha256": "c1e65a8a55e28e51238f2810d2394cd5da627cfd18b20aadf0122b70ce2958d9"
+  },
+  {
+    "path": "source/Supplementary Code 1_Cal_Emission/code_5_merge_export_netcdf.py",
+    "bytes": 15865,
+    "sha256": "6520f9cfb8425813cf52d039a0f8f9962ade51d2aa2af8f2363d6edaf09c3d88"
+  },
+  {
+    "path": "source/Supplementary Code 1_Cal_Emission/code_5_plot_selected_emission.py",
+    "bytes": 26653,
+    "sha256": "6357f85bcb272386932917c0864812bf226099de6dddfe9e8e3ac813e3c4aa2b"
+  },
+  {
+    "path": "source/Supplementary Code_2_Epidemic_Association/code_1_hospotal_all_add_eco.R",
+    "bytes": 17256,
+    "sha256": "6d6fa632bdd484abc5070036ee922168923c8ed080cd11005d7a2247f68a8429"
+  },
+  {
+    "path": "source/Supplementary Code_2_Epidemic_Association/code_2_hospital_urban.R",
+    "bytes": 9590,
+    "sha256": "d29dcb5040cf1aa3a4c20ef19675d35f644e5851235a49c3668fc194e10a2301"
+  },
+  {
+    "path": "source/Supplementary Code_2_Epidemic_Association/code_3_hospital_region.R",
+    "bytes": 6907,
+    "sha256": "0d1f35e81649f9a0f5b40fa554f80c366ad40064d175b39945aef75a912c6e20"
+  },
+  {
+    "path": "source/Supplementary Code_2_Epidemic_Association/make_m4_disease_forest.py",
+    "bytes": 9298,
+    "sha256": "2b97a80b173c6fc3537599a4ec3ab8a98006c1fb02234fe69f0e78b025797503"
+  },
+  {
+    "path": "source/Supplementary Code_3_Create_Emission_Index/create_index/audit_panel_alignment.py",
+    "bytes": 39364,
+    "sha256": "43958e6b49d897f326ff64e73cbed0bf057e17c06533b5b57d3dededf8111e76"
+  },
+  {
+    "path": "source/Supplementary Code_3_Create_Emission_Index/create_index/code_10_economic.py",
+    "bytes": 49948,
+    "sha256": "8de07342953cf7d3fb7fd1567e5e55fb7e4bbf6838d7e29a2f10dcfd2ec69966"
+  },
+  {
+    "path": "source/Supplementary Code_3_Create_Emission_Index/create_index/code_11_global_analysis.py",
+    "bytes": 9639,
+    "sha256": "d7e69627b93d91d059609f1f20137e29c08908f74a7f27651a080ede20937321"
+  },
+  {
+    "path": "source/Supplementary Code_3_Create_Emission_Index/create_index/code_12_lag_time.py",
+    "bytes": 49566,
+    "sha256": "b1bd5465ba6e9e69748326f9ad86a9baceaa6bfbc92aa9955e89ea096f415c97"
+  },
+  {
+    "path": "source/Supplementary Code_3_Create_Emission_Index/create_index/code_1_combine_stat_pds.py",
+    "bytes": 11342,
+    "sha256": "4ff208974d41f9a8ae71ee86384525b4420678fc2c1d30fb50e47be114692afc"
+  },
+  {
+    "path": "source/Supplementary Code_3_Create_Emission_Index/create_index/code_1_tot_results/3_combined_2_pds_data.csv",
+    "bytes": 1131342,
+    "sha256": "d805e9e1a4ad0302eb59a2f3273b086e20187d07970bf9ac23b078842ef867c7"
+  },
+  {
+    "path": "source/Supplementary Code_3_Create_Emission_Index/create_index/code_2_process_carbazole_toxicity.py",
+    "bytes": 3355,
+    "sha256": "498ac6d09e2495e097d15fc5c5634d6a39923965571d45c4f07db0ac9caa2be1"
+  },
+  {
+    "path": "source/Supplementary Code_3_Create_Emission_Index/create_index/code_2_results/Disease_Specific_DeepTox_Scores.csv",
+    "bytes": 3524,
+    "sha256": "48a2196db27159e86028d6459361c93ebe4b8af270eeeaaf09f9b9ba1d6f2986"
+  },
+  {
+    "path": "source/Supplementary Code_3_Create_Emission_Index/create_index/code_3_results/1_combined_all_method_score.csv",
+    "bytes": 1269089,
+    "sha256": "20ac2395e059954cf0d1dece90dd44fd8339591cbc83dd1e3a2b2be34d33fa6c"
+  },
+  {
+    "path": "source/Supplementary Code_3_Create_Emission_Index/create_index/code_3_results/2_Integrated_Priority_Targets_Categorized_min_max.csv",
+    "bytes": 668369,
+    "sha256": "954162becd44f8e628819ebc2a78f2430db749a417931cfd06cb49dd157b6e81"
+  },
+  {
+    "path": "source/Supplementary Code_3_Create_Emission_Index/create_index/code_3_results/3_Final_Top50pct_Categorized_Targets.csv",
+    "bytes": 35365,
+    "sha256": "01bcf0ee0f609f8e7fd100fb02bd5872eff2da6d244b5f544c6cca41d7db78df"
+  },
+  {
+    "path": "source/Supplementary Code_3_Create_Emission_Index/create_index/code_3_results/4_selected_pols_list.csv",
+    "bytes": 526,
+    "sha256": "041954a1eb2add334b8041198837ea4a26a4d6bba7edd3e50e957cda72afa8c3"
+  },
+  {
+    "path": "source/Supplementary Code_3_Create_Emission_Index/create_index/code_3_select_pols.py",
+    "bytes": 5070,
+    "sha256": "80252d9e3847aecd1013d60da6d95a5e8f18591a09d274a4fcb516acbdfd1a10"
+  },
+  {
+    "path": "source/Supplementary Code_3_Create_Emission_Index/create_index/code_4.1_construct_cei.py",
+    "bytes": 8919,
+    "sha256": "df83d90d73d97c57de22f33d16826cb2baca3dec5eb7d15660d9fce8b9a311b5"
+  },
+  {
+    "path": "source/Supplementary Code_3_Create_Emission_Index/create_index/code_4.2_priority_figures.py",
+    "bytes": 31051,
+    "sha256": "635050539a0f2202d5ca541deba103d9a916c8866b5f4b8b96070627f68b1c66"
+  },
+  {
+    "path": "source/Supplementary Code_3_Create_Emission_Index/create_index/code_4.3_priority_matrix.py",
+    "bytes": 12365,
+    "sha256": "65f204fec8b058dcf20aadf100253e330785503ccb2facbbce2e9eaea6da9d28"
+  },
+  {
+    "path": "source/Supplementary Code_3_Create_Emission_Index/create_index/code_4.4_webpage_plot.py",
+    "bytes": 8224,
+    "sha256": "1a656c869ea48d573c9f9e282705e5c9f921d804b62ff3c0f153a4a4e907a418"
+  },
+  {
+    "path": "source/Supplementary Code_3_Create_Emission_Index/create_index/code_4_construct_index.py",
+    "bytes": 62893,
+    "sha256": "9847688d1f55cbdefba2acf9f582572f3e2dbc3960c7916a50c78e88754c4480"
+  },
+  {
+    "path": "source/Supplementary Code_3_Create_Emission_Index/create_index/code_5_association.R",
+    "bytes": 12555,
+    "sha256": "aaf48340d36c92cadff9027185590b94857ef7d8299f2f56c0084bd11d06cca6"
+  },
+  {
+    "path": "source/Supplementary Code_3_Create_Emission_Index/create_index/code_6_calculate_AC.py",
+    "bytes": 96219,
+    "sha256": "feb9b8f92f4b67ef9cba7744752243148e92bafee218bcac38258eb46a3d780e"
+  },
+  {
+    "path": "source/Supplementary Code_3_Create_Emission_Index/create_index/code_7_analyse_for_ur.py",
+    "bytes": 43347,
+    "sha256": "1dd34f21ef1d9e5351b5ab2d2f53ab0b684eaf318cabc26210ee3f8a62086152"
+  },
+  {
+    "path": "source/Supplementary Code_3_Create_Emission_Index/create_index/code_8_analyse_for_region.py",
+    "bytes": 43399,
+    "sha256": "8a9a93310c483cd696de2acbeda8308c23c0f9507c34d18dfd7d34599791e2d8"
+  },
+  {
+    "path": "source/Supplementary Code_3_Create_Emission_Index/ebio_network/code_0_viz_ID.py",
+    "bytes": 10079,
+    "sha256": "b66872d9a8aea62df69a1ce5904a7be657924d8985261881277c6c76dace98ee"
+  },
+  {
+    "path": "source/Supplementary Code_3_Create_Emission_Index/ebio_network/code_1_tidy_EGoD.py",
+    "bytes": 7554,
+    "sha256": "201c6f8cc804a50155cece15ba4ab5f83053156bc28c017d26c39653960a44f2"
+  },
+  {
+    "path": "source/Supplementary Code_3_Create_Emission_Index/ebio_network/code_1_tidy_EPPD.py",
+    "bytes": 7554,
+    "sha256": "d781cc2084477fe8f0658dd97b9359240d683770b7fd497ed0049f071638612e"
+  },
+  {
+    "path": "source/Supplementary Code_3_Create_Emission_Index/ebio_network/code_2_path_diversity_score_EGoD.py",
+    "bytes": 22570,
+    "sha256": "e05608b3b6697ca929afb723d5b0cfce8285f534ee7acf20c074a74462a30a67"
+  },
+  {
+    "path": "source/Supplementary Code_3_Create_Emission_Index/ebio_network/code_2_path_diversity_score_EPPD.py",
+    "bytes": 26169,
+    "sha256": "7ae9c3eef392de6347f91532cbca95391dec9137f88e8695148675c76cb36bad"
+  },
+  {
+    "path": "source/Supplementary Code_3_Create_Emission_Index/ebio_network/code_3_2_viz_EGoD_layered_circular_optimized.py",
+    "bytes": 10362,
+    "sha256": "fb83506da80e1143ccc8b125b1f821caae033cb258dc0b8ae55a63614309864f"
+  },
+  {
+    "path": "source/Supplementary Code_3_Create_Emission_Index/ebio_network/code_3_2_viz_EPPD_layered_circular_optimized.py",
+    "bytes": 9779,
+    "sha256": "6a65b90e8d7ec421186c29cd27768542496dcc3836ffa6e2d6ee93b8e6034043"
+  },
+  {
+    "path": "source/Supplementary Code_3_Create_Emission_Index/ebio_network/ebio_summary_data/buildModel/summarize_ebd_workbook.py",
+    "bytes": 10611,
+    "sha256": "f03731b4a494c98a6ea3be9af6bd0ef79711f725d007ca2418bc6b50c2ee5dee"
+  },
+  {
+    "path": "source/Supplementary Code_4_Pred_Future_Emission/code_1_process_grid_pollutants.py",
+    "bytes": 6630,
+    "sha256": "08a522057aaa01e9065c7197451e8b59ff791cb6e2579ca6d28e0943374c555c"
+  },
+  {
+    "path": "source/Supplementary Code_4_Pred_Future_Emission/code_2.1_process_grid_proxy.py",
+    "bytes": 4021,
+    "sha256": "a29a6ef070352edc621703eb8d58ef0c761951ca26d193d23d545221a6091f1b"
+  },
+  {
+    "path": "source/Supplementary Code_4_Pred_Future_Emission/code_2.2_process_grid_population.py",
+    "bytes": 5022,
+    "sha256": "cd67621c6dc2e1d8f0f1fb191a4a2658d413356204ffbb5920268e0e3ac04ebb"
+  },
+  {
+    "path": "source/Supplementary Code_4_Pred_Future_Emission/code_2.3_process_grid_gdp.py",
+    "bytes": 3619,
+    "sha256": "170759806b1673ea7d01aac15a2f8d706d0aae66431819452f10829c816f85f9"
+  },
+  {
+    "path": "source/Supplementary Code_4_Pred_Future_Emission/code_3.1_prep_fut_proxy.py",
+    "bytes": 4351,
+    "sha256": "6553d9e553d70c3ae5b042e3662f874a62261ac00b57d77658d849f8d092b9d7"
+  },
+  {
+    "path": "source/Supplementary Code_4_Pred_Future_Emission/code_3.2_prep_fut_gdp.py",
+    "bytes": 2128,
+    "sha256": "8db9cb0ec42b58e07df882cb3b5659393159ded5b3597c38b54aca862e5fde3b"
+  },
+  {
+    "path": "source/Supplementary Code_4_Pred_Future_Emission/code_3.3_desc_features.py",
+    "bytes": 3750,
+    "sha256": "b3a2d0c7b45b3b9e713a40b227365117c56af5d873a5d319b4c2f8889cdae79e"
+  },
+  {
+    "path": "source/Supplementary Code_4_Pred_Future_Emission/code_3.3_prep_fut_population.py",
+    "bytes": 4535,
+    "sha256": "163e934479cc774612bf2d66db662aabb6637e155a42d87280c3a7d337a6cc15"
+  },
+  {
+    "path": "source/Supplementary Code_4_Pred_Future_Emission/code_4_ML_train_update.py",
+    "bytes": 34363,
+    "sha256": "79ae89eb96d2b472b606cd0e0978b5a57ee5c861eee198b89b8f1f1ce5206726"
+  },
+  {
+    "path": "source/Supplementary Code_4_Pred_Future_Emission/code_5_ML_pred.py",
+    "bytes": 6075,
+    "sha256": "de1a968d768eb77f29a66c71790507e03a007da79af38c59763d02028d71e10e"
+  },
+  {
+    "path": "source/Supplementary Code_4_Pred_Future_Emission/code_5_plot.py",
+    "bytes": 28395,
+    "sha256": "13721316e72339f234fdc35ef72566d986dcc8c1728d46e960d0989e509ed8db"
+  },
+  {
+    "path": "SUBMISSION_CHECKLIST.md",
+    "bytes": 1647,
+    "sha256": "3160ee86115a3f66ebb8836c0bb0e1146270dd56cf4bbcbed4d7a9ebc58b9724"
+  },
+  {
+    "path": "validate_submission.py",
+    "bytes": 1526,
+    "sha256": "b01b80fda45cb940b74baf0345c6edaa5cfe023ec8b0495b3e2e89235ff7fbb1"
+  }
+]
