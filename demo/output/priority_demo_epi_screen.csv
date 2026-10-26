@@ -1,0 +1,15 @@
+disease,example_top_exposure,epi_score
+Blood,X_Hexachlorobutadiene_CK,1.0486409317940777
+Cancer,X_Hexachlorobutadiene_CK,0.5258193720895284
+Circulation,X_Hexachlorobutadiene_CK,1.0361159305060834
+Congenital,X_Quartz_CK,0.9413375055070411
+Digestive,X_Hexachlorobutadiene_CK,0.5920692694557201
+Endocrine,X_Hexachlorobutadiene_COP,0.07105159598880653
+Genitourinary,X_Hexachlorobutadiene_CK,0.36422260484747265
+Mental,X_Hexachlorobutadiene_MSWI,0.6770836234513602
+Neural,X_Hexachlorobutadiene_CK,0.06997861216423641
+Perinatal,X_Quartz_CK,0.21246561795517413
+Pregnancy,X_Hexachlorobutadiene_CK,0.23658285621066721
+Respiration,X_Quartz_CK,0.3293983878537698
+Sensory,X_Quartz_CFPP,0.14241440961916663
+Skin,X_Quartz_CK,0.7742060075069864

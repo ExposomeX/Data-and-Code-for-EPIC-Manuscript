@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "elapsed_seconds": 0.092,
+  "input_rows": {
+    "emission": 120,
+    "association_synthetic": 245,
+    "priority": 168,
+    "future": 36
+  },
+  "scope": "Interface and descriptive smoke test; no model refitting"
+}
