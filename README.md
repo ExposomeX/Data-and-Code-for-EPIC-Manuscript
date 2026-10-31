@@ -1,6 +1,6 @@
 # EPIC manuscript code and compact demonstration
 
-This package contains the source code for four stages of the manuscript analysis and a compact dataset for checking the public data interfaces. Run commands from the package root. The original research files under `webpage/code` were not changed when this package was prepared.
+This package contains the source code for four stages of the manuscript analysis and a compact dataset for checking the public data interfaces. Run commands from the package root.
 
 ## 1. System requirements
 
